@@ -68,9 +68,6 @@ button {
 }
 
 
-
-
-
         </style>
     </head>
     <body>
@@ -85,7 +82,7 @@ button {
 
     <div id="container 2">
 
-<button class="button"> <a href="file:///Users/maiaotero/Desktop/portafolio/hija_de_la_fiesta_final.pdf" target="_blank"> autorretrato impersonal </a> </button>
+<button class="button"> <a href="https://www.flickr.com/photos/155999364@N04/albums/72157685173369346" target="_blank"> autorretrato impersonal </a> </button>
 
 <button class="button"> <a href="https://www.flickr.com/photos/155999364@N04/34580153473/in/album-72157682184979442/" target="_blank"> anatomia de<br> un meme </a> </button>
 
